@@ -1,3 +1,1 @@
-# LNTAlo
-Code AI
-do not reup
+download html and run
